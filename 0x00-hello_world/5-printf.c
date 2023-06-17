@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - prints "with proper grammar, but the outcome is a piece of art," followed with a newline
- * Return: always 0.
+ * main - Entry point
+ * Return: always 0 (Success)
  *
  */
 
